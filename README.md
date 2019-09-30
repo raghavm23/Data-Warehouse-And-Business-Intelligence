@@ -11,4 +11,4 @@ The dataset for the research was created by [WΔ](https://github.com/winterdelta
 The data has a total of 5657 records and 3197 flux values which are numeric in nature. The dependent variable is a categorical variable – whether a star has a confirmed exoplanet or not.
 
 ## Video Link
-https://www.youtube.com/watch?v=yKK-vfEytUU
+[Over Here](https://www.youtube.com/watch?v=yKK-vfEytUU)
