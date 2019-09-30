@@ -9,3 +9,6 @@ In this paper, various deep learning techniques to detect exoplanets using the i
 The dataset for the research was created by [WΔ](https://github.com/winterdelta) who has now open-sourced them and can be downloaded [here](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data). NASA open-sources the original Kepler Mission data and it is hosted at the [Mikulski Archive](https://archive.stsci.edu/k2/). The data presented here was cleansed and derived from observations made by the NASA Kepler space telescope. Over 99% of this dataset originates from Campaign 3. To boost the number of exoplanet-stars in the dataset, confirmed exoplanets from other campaigns were also included. To be clear, all observations from Campaign 3 are included. And in addition to this, confirmed exoplanet-stars from other campaigns are also included. All of this was done by [WΔ](https://github.com/winterdelta).
 
 The data has a total of 5657 records and 3197 flux values which are numeric in nature. The dependent variable is a categorical variable – whether a star has a confirmed exoplanet or not.
+
+## Video Link
+https://www.youtube.com/watch?v=yKK-vfEytUU
